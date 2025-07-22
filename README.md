@@ -101,18 +101,8 @@ App available at: `http://localhost:4200`
 
 ## 📸 Screenshot
 
-> _Add a screenshot here of your running app_
-<img width="1467" height="818" alt="image" src="https://github.com/user-attachments/assets/d5a85bcb-d420-41ce-bcdb-a4cb959bd17a" />
+<img width="1918" height="1137" alt="image" src="https://github.com/user-attachments/assets/67e19956-35ff-4b7c-922b-cae4a762df7c" />
 
-
-```bash
-# Example:
-<img width="1467" height="818" alt="image" src="https://github.com/user-attachments/assets/13184753-d2a7-4183-91c0-7ed4288687a8" />
-
-![UI Preview](./poll-app/src/assets/screenshot.png)
-```
-
----
 
 ## 🔮 Future Enhancements
 
