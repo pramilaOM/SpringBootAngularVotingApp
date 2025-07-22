@@ -105,6 +105,8 @@ App available at: `http://localhost:4200`
 
 ```bash
 # Example:
+<img width="1467" height="818" alt="image" src="https://github.com/user-attachments/assets/13184753-d2a7-4183-91c0-7ed4288687a8" />
+
 ![UI Preview](./poll-app/src/assets/screenshot.png)
 ```
 
