@@ -102,6 +102,8 @@ App available at: `http://localhost:4200`
 ## 📸 Screenshot
 
 > _Add a screenshot here of your running app_
+<img width="1467" height="818" alt="image" src="https://github.com/user-attachments/assets/d5a85bcb-d420-41ce-bcdb-a4cb959bd17a" />
+
 
 ```bash
 # Example:
