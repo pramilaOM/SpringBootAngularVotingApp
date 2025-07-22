@@ -5,7 +5,7 @@ A full-stack voting application built with:
 
 - 🎯 **Frontend**: Angular (`poll-app`)
 - ☕ **Backend**: Spring Boot (`votingapp`)
-- 🛢️ **Database**: MySQL (or in-memory H2 for dev)
+- 🛢️ **Database**: MySQL
 
 ---
 
