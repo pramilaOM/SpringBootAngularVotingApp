@@ -45,7 +45,7 @@ cd SpringBootAngularVotingApp
 
 ### ✅ Requirements
 
-- Java 17+
+- Java 24
 - Maven
 - MySQL (or configure H2 in `application.properties`)
 
